@@ -177,8 +177,8 @@
 (require 'init-local nil t)
 
 ;; set language environment
-(set-language-environment 'UTF-8)
-(set-locale-environment "UTF-8")
+;;(set-language-environment 'UTF-8)
+;;(set-locale-environment "UTF-8")
 
 (provide 'init)
 
